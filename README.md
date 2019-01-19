@@ -65,6 +65,7 @@ git add .
 git commit -m "massange"
 ```
 
+
 5- Pour faire un push 
 
 ```bash
@@ -99,3 +100,6 @@ NB: le repo `https://github.com/utilisateur/projet.git` doit etre créer
     git commit -m "initialisation"
     git push origin -u master
 ```
+
+
+
